@@ -14,7 +14,7 @@ function* callingApi() {
 
 function* changingEntity() {
     let entityVal = yield select(entity)
-    if(entityVal!==all){
+    if(entityVal!=="all"){
         const input = yield select(query)
         const response = yield call(fetch,`https://itunes.apple.com/search?term=${input}&entity=${entityVal}`)
         const data = yield response.json()
