@@ -1,6 +1,6 @@
 The website can be checked out here: https://harsharay.github.io/itunesSearch/
 
-![Website Preview](/images/logo.png)
+![Website Preview](itunes-search\Images\Itunes-search.png)
 
 
 
