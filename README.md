@@ -1,5 +1,9 @@
 The website can be checked out here: https://harsharay.github.io/itunesSearch/
 
+![Website Preview](/images/logo.png)
+
+
+
 
 This is a website created to search Itunes library by using the iTunes API(API can be found here https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/)
 
