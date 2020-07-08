@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/searchitunes/static/css/main.a2bd1823.chunk.css",
-    "main.js": "/searchitunes/static/js/main.34bf0d69.chunk.js",
-    "main.js.map": "/searchitunes/static/js/main.34bf0d69.chunk.js.map",
-    "runtime-main.js": "/searchitunes/static/js/runtime-main.e67aa869.js",
-    "runtime-main.js.map": "/searchitunes/static/js/runtime-main.e67aa869.js.map",
-    "static/js/2.af98f88a.chunk.js": "/searchitunes/static/js/2.af98f88a.chunk.js",
-    "static/js/2.af98f88a.chunk.js.map": "/searchitunes/static/js/2.af98f88a.chunk.js.map",
-    "index.html": "/searchitunes/index.html",
-    "precache-manifest.dac0fb2ebe953d2dfafdd7c73e4b8a4b.js": "/searchitunes/precache-manifest.dac0fb2ebe953d2dfafdd7c73e4b8a4b.js",
-    "service-worker.js": "/searchitunes/service-worker.js",
-    "static/css/main.a2bd1823.chunk.css.map": "/searchitunes/static/css/main.a2bd1823.chunk.css.map",
-    "static/js/2.af98f88a.chunk.js.LICENSE.txt": "/searchitunes/static/js/2.af98f88a.chunk.js.LICENSE.txt"
+    "main.css": "/itunesSearch/static/css/main.a2bd1823.chunk.css",
+    "main.js": "/itunesSearch/static/js/main.a83ced5f.chunk.js",
+    "main.js.map": "/itunesSearch/static/js/main.a83ced5f.chunk.js.map",
+    "runtime-main.js": "/itunesSearch/static/js/runtime-main.1629787c.js",
+    "runtime-main.js.map": "/itunesSearch/static/js/runtime-main.1629787c.js.map",
+    "static/js/2.af98f88a.chunk.js": "/itunesSearch/static/js/2.af98f88a.chunk.js",
+    "static/js/2.af98f88a.chunk.js.map": "/itunesSearch/static/js/2.af98f88a.chunk.js.map",
+    "index.html": "/itunesSearch/index.html",
+    "precache-manifest.0d6d74a7b6808c25266f445295611ac2.js": "/itunesSearch/precache-manifest.0d6d74a7b6808c25266f445295611ac2.js",
+    "service-worker.js": "/itunesSearch/service-worker.js",
+    "static/css/main.a2bd1823.chunk.css.map": "/itunesSearch/static/css/main.a2bd1823.chunk.css.map",
+    "static/js/2.af98f88a.chunk.js.LICENSE.txt": "/itunesSearch/static/js/2.af98f88a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e67aa869.js",
+    "static/js/runtime-main.1629787c.js",
     "static/js/2.af98f88a.chunk.js",
     "static/css/main.a2bd1823.chunk.css",
-    "static/js/main.34bf0d69.chunk.js"
+    "static/js/main.a83ced5f.chunk.js"
   ]
 }
